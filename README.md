@@ -6,7 +6,6 @@
 
 This dataset contains historic data for a variety of Japanese stocks and options. Your challenge is to predict the future returns of the stocks.
 
-As historic stock prices are not confidential, this will be a forecasting competition using the time series API. The data for the public leaderboard period is included as part of the competition dataset. Expect to see many people submitting perfect submissions for fun. Accordingly, the active phase public leaderboard for this competition is intended as a convenience for anyone who wants to test their code. The forecasting phase leaderboard will be determined using real market data gathered after the submission period closes.
 
 ## Files
 
